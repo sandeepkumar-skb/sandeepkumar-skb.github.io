@@ -8,8 +8,13 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 # ML System Papers
 
-## May 2025
+## June 2025
+* [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
+* [Inference-Time Hyper-Scaling with KV Cache Compression](https://arxiv.org/abs/2506.05345)
+* [MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569)
 
+## May 2025
+* [KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction](https://arxiv.org/abs/2505.23416)
 * [SageAttention2++: A More Efficient Implementation of SageAttention2](https://arxiv.org/abs/2505.21136v2)
 * [QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization](https://arxiv.org/abs/2505.18092v2)
 * [Scaling Law for Quantization-Aware Training](https://arxiv.org/abs/2505.14302)
