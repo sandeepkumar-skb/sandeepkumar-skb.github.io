@@ -9,6 +9,10 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 # ML System Papers
 
 ## June 2025
+* [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/abs/2506.09113)
+* [NoLoCo: No-all-reduce Low Communication Training Method for Large Models](https://arxiv.org/abs/2506.10911)
+* [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007)
+* [SeerAttention-R: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889)
 * [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
 * [Inference-Time Hyper-Scaling with KV Cache Compression](https://arxiv.org/abs/2506.05345)
 * [MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569)
