@@ -9,6 +9,10 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 # ML System Papers
 
 ## June 2025
+* [Scaling Test-time Compute for LLM Agents](https://arxiv.org/abs/2506.12928)
+* [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](http://arxiv.org/abs/2506.13585)
+* [Magistral](https://arxiv.org/abs/2506.10910)
+* [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](https://arxiv.org/abs/2506.06395)
 * [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/abs/2506.09113)
 * [NoLoCo: No-all-reduce Low Communication Training Method for Large Models](https://arxiv.org/abs/2506.10911)
 * [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007)
