@@ -9,6 +9,17 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 # ML System Papers
 
 ## June 2025
+* [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050)
+* [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](http://arxiv.org/abs/2506.14435)
+* [SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation](https://arxiv.org/abs/2506.18349)
+* [CommVQ: Commutative Vector Quantization for KV Cache Compression](http://arxiv.org/abs/2506.18879)
+* [DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster](https://arxiv.org/abs/2506.21263)
+* [Scaling Speculative Decoding with Lookahead Reasoning](https://arxiv.org/abs/2506.19830)
+* [OAgents: An Empirical Study of Building Effective Agents](https://arxiv.org/abs/2506.15741)
+* [Efficient RL Training - Optimizing Memory Usage in verl](https://hebiao064.github.io/rl-memory-management)
+* [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005)
+* [Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)
+* [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models](https://arxiv.org/abs/2506.16054)
 * [Scaling Test-time Compute for LLM Agents](https://arxiv.org/abs/2506.12928)
 * [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)
 * [Magistral](https://arxiv.org/abs/2506.10910)
