@@ -10,7 +10,7 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 ## June 2025
 * [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050)
-* [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](http://arxiv.org/abs/2506.14435)
+* [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](https://arxiv.org/abs/2506.14435)
 * [SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation](https://arxiv.org/abs/2506.18349)
 * [CommVQ: Commutative Vector Quantization for KV Cache Compression](http://arxiv.org/abs/2506.18879)
 * [DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster](https://arxiv.org/abs/2506.21263)
