@@ -8,7 +8,19 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 # ML System Papers
 
+## July 2025
+* [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754)
+* [ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention](https://arxiv.org/abs/2507.01004)
+* [AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](https://arxiv.org/abs/2507.01663)
+* [Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)
+
 ## June 2025
+* [Ovis-U1 Technical Report](https://arxiv.org/abs/2506.23044)
+* [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](https://arxiv.org/abs/2506.23858)
+* [Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852)
+* [GPU Kernel Scientist: An LLM-Driven Framework for Iterative Kernel Optimization](https://arxiv.org/abs/2506.20807)
+* [BestServe: Serving Strategies with Optimal Goodput in Collocation and Disaggregation Architectures](https://arxiv.org/abs/2506.05871)
+* [Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity](https://arxiv.org/abs/2505.21411)
 * [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050)
 * [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](https://arxiv.org/abs/2506.14435)
 * [SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation](https://arxiv.org/abs/2506.18349)
