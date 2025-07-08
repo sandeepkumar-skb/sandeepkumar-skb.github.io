@@ -19,7 +19,7 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 * [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](https://arxiv.org/abs/2506.23858)
 * [Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852)
 * [GPU Kernel Scientist: An LLM-Driven Framework for Iterative Kernel Optimization](https://arxiv.org/abs/2506.20807)
-* [BestServe: Serving Strategies with Optimal Goodput in Collocation and Disaggregation Architectures](https://arxiv.org/abs/2506.05871)
+* [BestServe: Serving Strategies with Optimal Goodput in Collocation and Disaggregation Architectures](https://arxiv.org/abs/2506.05871) :fire:
 * [Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity](https://arxiv.org/abs/2505.21411)
 * [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050)
 * [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](https://arxiv.org/abs/2506.14435)
@@ -30,7 +30,7 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 * [OAgents: An Empirical Study of Building Effective Agents](https://arxiv.org/abs/2506.15741)
 * [Efficient RL Training - Optimizing Memory Usage in verl](https://hebiao064.github.io/rl-memory-management)
 * [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005)
-* [Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)
+* [Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487) :fire:
 * [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models](https://arxiv.org/abs/2506.16054)
 * [Scaling Test-time Compute for LLM Agents](https://arxiv.org/abs/2506.12928)
 * [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)
