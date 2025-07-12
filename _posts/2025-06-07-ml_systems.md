@@ -9,6 +9,8 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 # ML System Papers
 
 ## July 2025
+* [any4: Learned 4-bit Numeric Representation for LLMs](https://arxiv.org/abs/2507.04610)
+* [AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](https://arxiv.org/abs/2507.05687)
 * [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754)
 * [ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention](https://arxiv.org/abs/2507.01004)
 * [AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](https://arxiv.org/abs/2507.01663)
@@ -68,6 +70,7 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 * [BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs](https://arxiv.org/abs/2504.18415v1)
 
 ## April 2025
+* [Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](https://arxiv.org/abs/2504.19442)
 * [TileLink: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives](https://arxiv.org/abs/2503.20313)
 * [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
 * [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285v2)
