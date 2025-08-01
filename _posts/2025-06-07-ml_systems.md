@@ -9,6 +9,12 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 # ML System Papers
 
 ## July 2025
+* [A Survey on Latent Reasoning](https://arxiv.org/abs/2507.06203)
+* [SingLoRA: Low Rank Adaptation Using a Single Matrix](https://arxiv.org/abs/2507.05566)
+* [A Systematic Analysis of Hybrid Linear Attention](https://arxiv.org/abs/2507.06457)
+* [Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)
+* [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)
+* [SPD: Sync-Point Drop for Efficient Tensor Parallelism of Large Language Models](https://a
 * [any4: Learned 4-bit Numeric Representation for LLMs](https://arxiv.org/abs/2507.04610)
 * [AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](https://arxiv.org/abs/2507.05687)
 * [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754)
