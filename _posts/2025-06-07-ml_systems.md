@@ -8,6 +8,10 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 # ML System Papers
 
+## August 2025
+*[Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324)
+*[Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
+
 ## July 2025
 * [MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism](https://arxiv.org/abs/2504.02263)
 * [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
