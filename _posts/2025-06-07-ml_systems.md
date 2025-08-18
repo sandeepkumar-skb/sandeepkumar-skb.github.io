@@ -9,8 +9,13 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 # ML System Papers
 
 ## August 2025
-*[Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324)
-*[Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
+* [Deep Researcher with Test-Time Diffusion](https://arxiv.org/abs/2507.16075)
+* [Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts](https://arxiv.org/abs/2508.07785)
+* [MoBE: Mixture-of-Basis-Experts for Compressing MoE-based LLMs](https://arxiv.org/abs/2508.05257)
+* [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference](https://arxiv.org/abs/2508.02193)
+* [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](https://arxiv.org/abs/2507.22448)
+* [Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324)
+* [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
 
 ## July 2025
 * [MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism](https://arxiv.org/abs/2504.02263)
