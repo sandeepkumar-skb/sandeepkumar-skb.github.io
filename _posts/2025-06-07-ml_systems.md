@@ -9,6 +9,9 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 # ML System Papers
 
 ## August 2025
+* [TPLA: Tensor Parallel Latent Attention for Efficient Disaggregated Prefill and Decode Inference](https://arxiv.org/abs/2508.15881)
+* [Ovis2.5 Technical Report](https://arxiv.org/abs/2508.11737)
+* [XQuant: Breaking the Memory Wall for LLM Inference with KV Cache Rematerialization](https://arxiv.org/abs/2508.10395)
 * [Deep Researcher with Test-Time Diffusion](https://arxiv.org/abs/2507.16075)
 * [Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts](https://arxiv.org/abs/2508.07785)
 * [MoBE: Mixture-of-Basis-Experts for Compressing MoE-based LLMs](https://arxiv.org/abs/2508.05257)
