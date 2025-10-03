@@ -7,6 +7,14 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 
 # ML System Papers
+## September 2025
+* [Pretraining Large Language Models with NVFP4](https://arxiv.org/abs/2509.25149)
+* [Qwen3-Omni Technical Report](https://arxiv.org/abs/2509.17765)
+* [QWHA: Quantization-Aware Walsh-Hadamard Adaptation for Parameter-Efficient Fine-Tuning on Large Language Models](https://arxiv.org/abs/2509.17428)
+* [Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing](https://arxiv.org/abs/2509.08721)
+* [Causal Attention with Lookahead Keys](https://arxiv.org/abs/2509.07301)
+* [Why Language Models Hallucinate](https://arxiv.org/abs/2509.04664)
+* [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/abs/2509.02547)
 
 ## August 2025
 * [Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](https://arxiv.org/abs/2508.14896)
