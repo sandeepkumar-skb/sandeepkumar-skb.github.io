@@ -7,7 +7,17 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 
 # ML System Papers
+## October 2025
+* [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973)
+* [RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)
+* [MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation](http://arxiv.org/abs/2510.18692)
+* [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)
+* [Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning](https://arxiv.org/abs/2510.19338)
+* [Long-Context Attention Benchmark: From Kernel Efficiency to Distributed Context Parallelism](https://arxiv.org/abs/2510.17896)
+* [Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference](https://arxiv.org/abs/2510.18413)
+
 ## September 2025
+* [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)
 * [Pretraining Large Language Models with NVFP4](https://arxiv.org/abs/2509.25149)
 * [Qwen3-Omni Technical Report](https://arxiv.org/abs/2509.17765)
 * [QWHA: Quantization-Aware Walsh-Hadamard Adaptation for Parameter-Efficient Fine-Tuning on Large Language Models](https://arxiv.org/abs/2509.17428)
