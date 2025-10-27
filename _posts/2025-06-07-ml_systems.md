@@ -10,7 +10,7 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 ## October 2025
 * [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973)
 * [RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)
-* [MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation](http://arxiv.org/abs/2510.18692)
+* [MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation](https://arxiv.org/abs/2510.18692)
 * [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)
 * [Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning](https://arxiv.org/abs/2510.19338)
 * [Long-Context Attention Benchmark: From Kernel Efficiency to Distributed Context Parallelism](https://arxiv.org/abs/2510.17896)
