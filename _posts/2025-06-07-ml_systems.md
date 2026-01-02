@@ -7,7 +7,16 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 
 # ML System Papers
+##December 2025
+[Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631)
+[DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
+
+## November 2025
+[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719)
+[TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923)
+
 ## October 2025
+* [INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://arxiv.org/abs/2510.25602)
 * [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973)
 * [RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)
 * [MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation](https://arxiv.org/abs/2510.18692)
