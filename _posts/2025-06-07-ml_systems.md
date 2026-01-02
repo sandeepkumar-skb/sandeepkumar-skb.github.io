@@ -16,6 +16,7 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 * [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923)
 
 ## October 2025
+* [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
 * [INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://arxiv.org/abs/2510.25602)
 * [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973)
 * [RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)
