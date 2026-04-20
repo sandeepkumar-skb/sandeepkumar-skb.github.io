@@ -7,6 +7,13 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 
 # ML System Papers
+## March 2026
+* [Attention Residuals](https://arxiv.org/abs/2603.15031)
+* [dLLM: Simple Diffusion Language Modeling](https://arxiv.org/abs/2602.22661)
+* [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286)
+* [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448)
+* [Mixture-of-Depths Attention](https://arxiv.org/abs/2603.15619)
+
 ## December 2025
 * [Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631)
 * [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
