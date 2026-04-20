@@ -7,6 +7,13 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 
 # ML System Papers
+## March 2026
+* [Attention Residuals](https://arxiv.org/abs/2603.15031)
+* [dLLM: Simple Diffusion Language Modeling](https://arxiv.org/abs/2602.22661)
+* [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286)
+* [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448)
+* [Mixture-of-Depths Attention](https://arxiv.org/abs/2603.15619)
+
 ## December 2025
 * [Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631)
 * [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
@@ -16,6 +23,7 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 * [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923)
 
 ## October 2025
+* [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
 * [INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://arxiv.org/abs/2510.25602)
 * [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973)
 * [RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)
