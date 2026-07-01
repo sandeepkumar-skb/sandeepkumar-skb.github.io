@@ -7,6 +7,20 @@ tags: [gpu, deep learning, ml_systems]     # TAG names should always be lowercas
 
 
 # ML System Papers
+## June 2026
+* [MosaicQuant: Inlier-Outlier Disaggregation for Unified 4-Bit LLM Quantization](https://arxiv.org/abs/2606.15652)
+* [Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation](https://arxiv.org/abs/2606.09864)
+* [Complementary Attention Head Pruning for Efficient Transformers](https://arxiv.org/abs/2606.19150)
+* [MiniMax Sparse Attention](https://arxiv.org/html/2606.13392)
+* [P-Cast Precision in FP8 Attention: Sink-Induced P-Collapse and Mitigation (FA4 Foundations)](https://arxiv.org/abs/2606.06521)
+* [Charon: A Unified and Fine-Grained Simulator for Large-Scale LLM Performance](https://arxiv.org/abs/2605.17164)
+* [You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://arxiv.org/abs/2606.06467)
+* [Recover-LoRA for Aggressive Quantization: Reclaiming Accuracy in 2-Bit Language Models](https://arxiv.org/abs/2606.04238)
+* [Depth-Attention: Cross-Layer Value Mixing for Language Models](https://arxiv.org/abs/2606.05014)
+* [Boundary-Protection W8A8 HiFloat8 Quantization for Large-Scale Text-to-Video Diffusion Transformers](https://arxiv.org/abs/2606.00957)
+* [Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention](https://arxiv.org/abs/2606.15652)
+* [Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication](https://arxiv.org/html/2606.05951v1)
+
 ## March 2026
 * [Attention Residuals](https://arxiv.org/abs/2603.15031)
 * [dLLM: Simple Diffusion Language Modeling](https://arxiv.org/abs/2602.22661)
